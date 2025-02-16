@@ -12,7 +12,7 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-*DESCRIBTION*:
+*DESCRIPTION*:
 
 Objective: The core goal is to generate a report that reveals trends and patterns within sales data.  This implies going beyond basic aggregations and exploring more complex relationships.
 
